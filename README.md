@@ -1,2 +1,13 @@
 # Android
-Android Common Resources
+
+**“ 关于Android的一些必备知识 ”**
+
+- 一.工具
+
+- 二.规范
+
+- 三.测试
+
+- 四.封装
+
+- 五.功能
