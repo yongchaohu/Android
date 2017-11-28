@@ -29,7 +29,7 @@
 
 ## 二.Settings.Jar
 
-- [点击下载](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%B7%A5%E5%85%B7/Android%20Studio/settings.jar)
+- [点击下载](https://github.com/LiuGuiLinAndroid/Android/raw/master/%E5%B7%A5%E5%85%B7/Android%20Studio/settings.jar)
 
 ## 三.技巧
 
@@ -66,6 +66,7 @@
     }
 }
 ```
+
 	- 3.app/build.gradle中加入，并且置顶
 	
 ```
