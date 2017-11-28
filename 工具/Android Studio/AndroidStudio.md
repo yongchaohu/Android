@@ -29,12 +29,13 @@
 
 ## 二.Settings.Jar
 
-- [点击下载]()
+- [点击下载](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%B7%A5%E5%85%B7/Android%20Studio/settings.jar)
 
 ## 三.技巧
 
 - 1.File Header
 
+```
 /**
  * FileName: ${NAME}
  * Founder: LiuGuiLin
@@ -43,6 +44,7 @@
  * License:http://www.apache.org/licenses/
  * Profile: 
  */
+```
  
 - 2.加载framework.jar
 
@@ -50,6 +52,7 @@
 	
 	- 2.project/build.gradle中加入
 
+```
 	allprojects {
     repositories {
         google()
@@ -62,13 +65,12 @@
         }
     }
 }
-
+```
 	- 3.app/build.gradle中加入，并且置顶
 	
+```
 	provided files('libs/framework.jar')
-	
-- 3.
-	
+```
 
 ## 四.插件
 
