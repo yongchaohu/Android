@@ -35,7 +35,7 @@ import com.liuguilin.commonjar.utils.VersionUtils;
 	// 所有TAG
 	public static String ALLTAG = "AllLog";
 	// 团队TAG
-	public static String[] mStrLog = { "LGL", "ZDD", "LQM", "GWG" };
+	public static String[] mStrLog = { "LGL1", "LGL2", "LGL3", "LGL4" };
 	// Log 路径
 	public static String PATH = "/sdcard/Log/";
 

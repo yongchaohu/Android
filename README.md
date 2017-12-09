@@ -33,3 +33,7 @@
 ## 五.功能
 
 - [AIDL](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%8A%9F%E8%83%BD/AIDL/AIDL.md)
+
+- [JNI]()
+
+- [Android M 动态权限]()

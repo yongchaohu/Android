@@ -67,7 +67,7 @@
 }
 ```
 
-	- 3.app/build.gradle中加入，并且置顶
+- 3.app/build.gradle中加入，并且置顶
 	
 ```
 	provided files('libs/framework.jar')
