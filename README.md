@@ -34,6 +34,6 @@
 
 - [AIDL](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%8A%9F%E8%83%BD/AIDL/AIDL.md)
 
-- [JNI]()
+- [JNI](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%8A%9F%E8%83%BD/JNI/JNI.md)
 
-- [Android M 动态权限]()
+- [Android M 动态权限](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%8A%9F%E8%83%BD/%E5%8A%A8%E6%80%81%E6%9D%83%E9%99%90/Android%20M%20%E5%8A%A8%E6%80%81%E6%9D%83%E9%99%90.md)
