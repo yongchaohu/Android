@@ -73,6 +73,16 @@
 	provided files('libs/framework.jar')
 ```
 
+- 4.添加本地仓库
+
+```
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+```
+
 ## 四.插件
 
 - LayoutCreator
