@@ -27,6 +27,10 @@
 
 > Systems-System Settings下，把Reopen last project startup的勾去掉
 
+- 显示行号 方法分割线
+
+> Settings-Editor-General-Appearance下，把Show line numbers勾上；把Show method separators勾上
+
 ## 二.Settings.Jar
 
 - [点击下载](https://github.com/LiuGuiLinAndroid/Android/raw/master/%E5%B7%A5%E5%85%B7/Android%20Studio/settings.jar)
@@ -87,3 +91,4 @@ repositories {
 
 - LayoutCreator
 - GsonFormat
+
