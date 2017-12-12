@@ -13,8 +13,8 @@
 
 - 自定义签名
 
-> 待补充
+> window - preferences - Android - Build - Default debug keystore : 引入签名文件
 
 - 配置framework lib
 
-> 待补充
+> window - preferences - Java - Build Path - User Libraries - New - Add External JARS
