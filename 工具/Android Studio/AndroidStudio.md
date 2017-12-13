@@ -96,4 +96,7 @@ repositories {
 
 - LayoutCreator
 - GsonFormat
+- CodeGlance
+- ButterKnifeZelezny
+- Android WIFI ADB
 
