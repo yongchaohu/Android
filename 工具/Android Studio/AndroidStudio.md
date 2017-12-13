@@ -87,6 +87,11 @@ repositories {
 }
 ```
 
+- 5.关于Settings-Editor-Live Templates的使用
+
+    * [使用AndroidStudio优雅的敲代码](http://blog.csdn.net/a_zhon/article/details/52594958)
+
+
 ## 四.插件
 
 - LayoutCreator
