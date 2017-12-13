@@ -30,6 +30,8 @@
 
 - [万能的BaseAdapter](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%B0%81%E8%A3%85/%E4%B8%87%E8%83%BD%E7%9A%84BaseAdapter/%E4%B8%87%E8%83%BD%E7%9A%84BaseAdapter.md)
 
+- [WifiManager](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%B0%81%E8%A3%85/WifiManager/WifiManager.java)
+
 ## 五.功能
 
 - [AIDL](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%8A%9F%E8%83%BD/AIDL/AIDL.md)
@@ -37,3 +39,7 @@
 - [JNI](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%8A%9F%E8%83%BD/JNI/JNI.md)
 
 - [Android M 动态权限](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%8A%9F%E8%83%BD/%E5%8A%A8%E6%80%81%E6%9D%83%E9%99%90/Android%20M%20%E5%8A%A8%E6%80%81%E6%9D%83%E9%99%90.md)
+
+- [单例模式](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%8A%9F%E8%83%BD/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
+
+
