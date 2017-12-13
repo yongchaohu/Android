@@ -15,6 +15,8 @@ git remote add origin https://xxxx.git
 git add -A
 git commit -m "Initial commit"
 git push -u origin master
+//refusing to merge unrelated histories
+git pull origin master --allow-unrelated-histories
 ```
 
 - 克隆
