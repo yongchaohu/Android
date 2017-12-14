@@ -71,13 +71,13 @@
 }
 ```
 
-- 3.app/build.gradle中加入，并且置顶
+	- 3.app/build.gradle中加入，并且置顶
 	
 ```
 	provided files('libs/framework.jar')
 ```
 
-- 4.添加本地仓库
+- 3.添加本地仓库
 
 ```
 repositories {
@@ -87,16 +87,15 @@ repositories {
 }
 ```
 
-- 5.关于Settings-Editor-Live Templates的使用
-
-    * [使用AndroidStudio优雅的敲代码](http://blog.csdn.net/a_zhon/article/details/52594958)
-
-
 ## 四.插件
 
 - LayoutCreator
+
 - GsonFormat
+
 - CodeGlance
+
 - ButterKnifeZelezny
+
 - Android WIFI ADB
 
