@@ -10,9 +10,9 @@
 
 - [Git](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%B7%A5%E5%85%B7/Git/Git.md)
 
-- [Linux]()
+- [Linux](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%B7%A5%E5%85%B7/Git/Linux.md)
 
-- [Vim]()
+- [Vim](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%B7%A5%E5%85%B7/Git/Vim.md)
 
 
 
