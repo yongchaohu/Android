@@ -8,6 +8,15 @@
 
 - [Eclipse](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%B7%A5%E5%85%B7/Eclipse/Eclipse.md)
 
+- [Git](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E5%B7%A5%E5%85%B7/Git/Git.md)
+
+- [Linux]()
+
+- [Vim]()
+
+
+
+
 ## 二.规范
 
 - [命名](https://github.com/LiuGuiLinAndroid/Android/blob/master/%E8%A7%84%E8%8C%83/%E5%91%BD%E5%90%8D/%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83.md)
