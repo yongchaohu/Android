@@ -80,6 +80,12 @@ git branch -a
 git log
 ```
 
+- 根据作者过滤log
+
+```
+git log --author='xxx'
+```
+
 - 切换分支
 
 ```
@@ -104,4 +110,16 @@ git cherry-pick xxx
 ```
 git log 
 git reset --hard xxx
+```
+
+- 查看某个文件的提交历史
+
+```
+git log --pretty=oneline <文件名>
+```
+
+- 查看某个提交的某个文件的改动
+
+```
+git show <git提交版本号> <文件名>
 ```
