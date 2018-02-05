@@ -101,14 +101,12 @@ git merge xxx
 - 合并提交
 
 ```
-git log
 git cherry-pick xxx
 ```
 
 - 回退版本
 
 ```
-git log 
 git reset --hard xxx
 ```
 
@@ -122,4 +120,22 @@ git log --pretty=oneline <文件名>
 
 ```
 git show <git提交版本号> <文件名>
+```
+
+- 放弃本地的修改
+
+```
+git checkout 文件
+```
+
+- 放弃某个提交
+
+```
+git revert xx
+```
+
+- 强制push
+
+```
+git push -u origin master -f
 ```
